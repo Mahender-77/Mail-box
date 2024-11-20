@@ -1,0 +1,33 @@
+.Filter{
+   display: flex;
+   justify-content: left;
+   place-items: center;
+   width: 90%;
+   margin: auto;
+}
+
+.Filter p{
+    margin-right: 30px;
+    color: #393737;
+    font-size: large;
+}
+
+.Filter .nav{
+    text-decoration: none;
+    color: #393737;
+    background-color: #b5b7bb;
+    border:0.5ps solid #CFD2DC;
+    margin-right: 40px;
+    padding:2px 10px;
+    border-radius: 30px;
+    font-size: large;
+}
+
+.Filter .nav1{
+    border-radius: 30px;
+    text-decoration: none;
+    padding:3px;
+    color: #393737;
+    margin-right: 40px;
+    font-size: large;
+}
